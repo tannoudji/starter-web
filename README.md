@@ -8,7 +8,11 @@ Here is a starter's web project.
 
 ## Deployment
 
+Somemore Deployment here. 
+
 ## How To Contribute
+
+Please fork this repo.
 
 ## Copyright
 
