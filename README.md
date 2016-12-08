@@ -10,3 +10,6 @@ Here is a starter's web project.
 
 ## How To Contribute
 
+## Copyright
+
+### This part is about copyrights
