@@ -10,6 +10,7 @@ More features for myfeature branch!
 ## Purpose
 
 ## Deployment
+Let's deploy it at midight in Oslo.
 
 ## How To Contribute
 
