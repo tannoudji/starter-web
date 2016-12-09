@@ -13,3 +13,6 @@ More features for myfeature branch!
 
 ## How To Contribute
 
+# Copyright
+
+All rights reserved.
