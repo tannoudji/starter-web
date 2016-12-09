@@ -5,6 +5,7 @@ This is a simple website project to see how git works.
 ## Introduction
 
 Adding a line for rebasing.
+More features for myfeature branch!
 
 ## Purpose
 
